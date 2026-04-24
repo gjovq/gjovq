@@ -13,7 +13,7 @@
  ╚═════╝ ╚═╝      ╚═════╝   ╚═══╝   ╚══▀▀═╝ 
 ```
 
-`full stack developer` &nbsp;·&nbsp; `.net` &nbsp;·&nbsp; `java` &nbsp;·&nbsp; `always building`
+`full stack developer` &nbsp;·&nbsp; `.net` &nbsp;·&nbsp; `java`
 
 </div>
 
@@ -63,7 +63,6 @@ $ cat profile.json
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>

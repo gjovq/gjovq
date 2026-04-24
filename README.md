@@ -70,7 +70,7 @@ $ cat profile.json
 
 ---
 
-### `~/projects`
+/* ### `~/projects`
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -96,7 +96,7 @@ $ cat profile.json
 ```
 
 ---
-
+*/
 ### `~/stats`
 
 <div align="center">
